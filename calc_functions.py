@@ -14,5 +14,5 @@ def sum_all(listi):
 
 
 def funci(a):
-    return a+5
+    return a+10
 
